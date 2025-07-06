@@ -1,0 +1,6 @@
+Name	Quantity	Component
+T1	1	 nMOS Transistor (MOSFET)
+Rpot1	1	250 Ω Potentiometer
+M1	1	 DC Motor
+U1	1	 Arduino Uno R3
+Bat1	1	4 batteries, AA, no 1.5V Battery
